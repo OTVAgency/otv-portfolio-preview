@@ -4,3 +4,5 @@
 @media(max-width:620px){.otvp .text-link{min-height:44px}.otvp .client-link a,.otvp .email{display:inline-flex;align-items:center;min-height:44px}}
 
 .otvp .visual.fce{background:#bfd8dc}.otvp .visual.cmc{background:#173963}.otvp .visual.web .project-logo{position:absolute;right:15px;bottom:15px;width:31%;max-height:34%;object-fit:contain;background:#fff;padding:10px;border-radius:6px;box-shadow:0 8px 20px #0003}.otvp .gallery.logo-work img:last-child{background:#fff;padding:16px;border-radius:8px}
+
+.otvp .website-link{margin-top:12px;color:var(--teal)}.otvp .gallery .website-preview{grid-column:1/-1;border-radius:6px}
